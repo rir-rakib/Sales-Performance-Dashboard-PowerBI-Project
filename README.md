@@ -55,19 +55,17 @@ Profit Margin =
         0
     )
 
-🛠️ Tools Used
+## Tools Used
       Power BI Desktop
-      Microsoft Excel (for data processing)
+      Power Query (for data processing)
       DAX (Data Analysis Expressions)
 
 ## How to Use
-Download or clone the repository.
+   Download or clone the repository.
+   Open the .pbix file with Power BI Desktop.
+   Explore the interactive dashboard.
 
-Open the .pbix file with Power BI Desktop.
 
-Explore the interactive dashboard.
-
-Optionally, connect your own dataset to reuse the visuals and structure.
 
 👤 Author
 Rakibul Islam
